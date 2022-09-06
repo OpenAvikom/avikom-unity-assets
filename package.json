@@ -1,0 +1,16 @@
+{
+  "name": "app.avikom.avikom-unity-assets",
+  "version": "0.9.1",
+  "displayName": "AVIKOM Unity Assets",
+  "description": "Helper functions and objects to ease work with scriptable objects.",
+  "unity": "2019.4",
+  "documentationUrl": "https://docs.avikom.app/",
+  "keywords": [
+    "AVIKOM"
+  ],
+  "author": {
+    "name": "Alexander Neumann",
+    "email": "alneuman@techfak.uni-bielefeld.de",
+    "url": "https://avikom.app"
+  }
+}
