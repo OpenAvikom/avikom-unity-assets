@@ -1,5 +1,5 @@
 {
-  "name": "app.avikom.avikom-unity-assets",
+  "name": "com.github.openavikom.avikom-unity-assets",
   "version": "0.9.1",
   "displayName": "AVIKOM Unity Assets",
   "description": "Helper functions and objects to ease work with scriptable objects.",
@@ -10,7 +10,7 @@
   ],
   "author": {
     "name": "Alexander Neumann",
-    "email": "alneuman@techfak.uni-bielefeld.de",
+    "email": "aleneum@gmail.com",
     "url": "https://avikom.app"
   }
 }
